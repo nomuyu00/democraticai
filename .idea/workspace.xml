@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89946209-ebbd-4df2-8ada-4b01a5119cb4" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/democraticai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89946209-ebbd-4df2-8ada-4b01a5119cb4" name="変更" comment="初コミット" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +41,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nomuyu\PycharmProjects\democraticai\.venv" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nomuyu\PycharmProjects\democraticai" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -67,8 +61,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738329432874</updated>
-      <workItem from="1738329437728" duration="2428000" />
+      <workItem from="1738329437728" duration="2730000" />
     </task>
+    <task id="LOCAL-00001" summary="初コミット">
+      <option name="closed" value="true" />
+      <created>1738332013278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738332013278</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初コミット">
+      <option name="closed" value="true" />
+      <created>1738332195620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738332195620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初コミット" />
+    <option name="LAST_COMMIT_MESSAGE" value="初コミット" />
   </component>
 </project>
